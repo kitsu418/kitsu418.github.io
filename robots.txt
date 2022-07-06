@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://ikitsu.moe/sitemap.xml
