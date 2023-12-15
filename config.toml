@@ -174,3 +174,15 @@ noJSConfigInAssets = true
 
 [security]
 enableInlineShortcodes = true
+
+[imaging]
+resampleFilter = "box"
+quality = 75
+anchor = "smart"
+bgColor = "#ffffff"
+
+[imaging.exif]
+includeFields = ""
+excludeFields = ".*"
+disableDate = true
+disableLatLong = true
