@@ -89,6 +89,17 @@ licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
 # If you want to set multiple api key, see theme's README for more details
 # disqusJSApi = "https://*********/"
 # disqusJSApikey = "**********"
+giscusRepo = "ikitsuchi/ikitsuchi.github.io"
+giscusRepoId = "MDEwOlJlcG9zaXRvcnk0MDM1Njk0NjE="
+giscusCategory = "General"
+giscusCategoryId = "DIC_kwDOGA37Nc4CbwRV"
+giscusMapping = "pathname"
+giscusStrict = "0"
+giscusReactionsEnabled = "1"
+giscusEmitMetadata = "0"
+giscusInputPosition = "bottom"
+giscusTheme = "preferred_color_scheme"
+giscusLang = "en"
 
 # custom lazyload placeholder
 # 16:9

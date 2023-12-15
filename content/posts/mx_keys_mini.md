@@ -4,7 +4,6 @@ date = 2023-12-14T22:16:45+08:00
 description = 'My personal review of Logitech MX Keys Mini keyboard.'
 tags = ['personal']
 aplayer = false
-showLicense = true
 showToc = true
 math = true
 draft = false

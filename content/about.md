@@ -2,7 +2,6 @@
 title = 'About Me'
 description = 'About'
 date = 2023-12-14T22:05:08+08:00
-showLicense = true
 showToc = true
 math = true
 draft = false
