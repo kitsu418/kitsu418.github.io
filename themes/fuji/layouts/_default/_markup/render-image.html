@@ -1,11 +1,11 @@
-{{ $image := .Page.Resources.GetMatch .Destination }}
-{{ $image := $image.Resize (print $image.Width "x" $image.Height " webp") }}
-
-{{ if .Text }}
-<figure>
+{{- $image := .Page.Resources.GetMatch (printf "%s" .Destination ) -}}
+{{- with $image -}}
+    {{ if .Text }}
+    <figure>
+        <img class="img-zoomable" src="{{ $image.RelPermalink }}" alt="{{ .Text }}" />
+        <figcaption>{{ .Text }}</figcaption>
+    </figure>
+    {{ else }}
     <img class="img-zoomable" src="{{ $image.RelPermalink }}" alt="{{ .Text }}" />
-    <figcaption>{{ .Text }}</figcaption>
-</figure>
-{{ else }}
-<img class="img-zoomable" src="{{ $image.RelPermalink }}" />
+    {{ end }}
 {{ end }}

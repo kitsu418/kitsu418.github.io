@@ -1,4 +1,4 @@
-baseURL = "https://blog.weiyi.dev"
+# baseURL = "https://blog.weiyi.dev"
 title = "Magic Shop of Raspberry"
 
 theme = "fuji"
@@ -31,9 +31,9 @@ home = ["HTML", "RSS", "SearchIndex"]
 post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-author = "Weiyi Chen"                # You can also set author in post front matter individually
+author = "Weiyi Chen"                    # You can also set author in post front matter individually
 subTitle = "A magic shop sells nothing."
-defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
+defaultTheme = "auto"                    # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
 sourceURL = "https://github.com/dsrkafuu/hugo-theme-fuji"
@@ -57,7 +57,7 @@ hideNoTagList = true
 showLicenseInFooter = true
 
 # License at the end of each post
-showLicense = true
+showLicense = false
 showToc = true
 
 # Copyright
