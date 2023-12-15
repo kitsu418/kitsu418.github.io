@@ -1,8 +1,11 @@
+{{ $image := .Page.Resources.GetMatch .Destination }}
+{{ $image := $image.Resize (print $image.Width "x" $image.Height " webp") }}
+
 {{ if .Text }}
 <figure>
-    <img class="img-zoomable" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
+    <img class="img-zoomable" src="{{ $image.RelPermalink }}" alt="{{ .Text }}" />
     <figcaption>{{ .Text }}</figcaption>
 </figure>
 {{ else }}
-<img class="img-zoomable" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
+<img class="img-zoomable" src="{{ $image.RelPermalink }}" />
 {{ end }}
