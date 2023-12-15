@@ -17,7 +17,7 @@ I have finally discovered my dream keyboard.
 
 Previously, I was using a generic-brand mechanical keyboard equipped with TTC Gold Pink linear switches, featuring approximately 37g pressing pressure, which give it a light and smooth tactile feel.
 
-![Acutually I still love it.](/images/mechanical_keyboard.jpg)
+![Acutually I still love it.](images/mechanical-keyboard.jpg)
 
 For me, the greatest advantage of mechanical keyboards lies in its n key rollover, which means all keys on the keyboard can be pressed and detected simultaneously, while typically membrane keyboards only support six-key rollover or fewer. As a rhythm game enthusiast, situations where I need to press up to 8 keys simultaneously can occur, however, membrane keyboards may struggle to handle such scenarios.
 
@@ -51,11 +51,11 @@ I was initially considering buying a second-hand one to save some money. But coi
 
 The delivery speed of the official JD.com store is, as always, impressively fast. I placed the order at 1 AM, and the delivery was at my doorstep by 6 PM on the same day.
 
-![My new gear: Logitech MX Keys Mini](/images/mx_keys_mini.jpg)
+![My new gear: Logitech MX Keys Mini](images/mx-keys-mini.jpg)
 
 Like most nerds, I have a preference for black, but it was out of stock when I made the purchase, so I ended up buying the gray one. After seeing the actual product, I think the gray version is not ugly at all, it's quite attractive. Turning on the backlight in dim lighting looks pretty cool.
 
-![BACKLIGHTING ON!](/images/mx_keys_mini_backlighting.jpg)
+![BACKLIGHTING ON!](images/mx-keys-mini-backlighting.jpg)
 
 However, to save power, I turned off the backlighting. 🤣 With the backlighting on, it would stay powered up for about 10 days on a full charge, but with the backlighting off, it can last for 5 months.
 
@@ -77,7 +77,7 @@ Of course, it also has its drawbacks.
 - I feel the most frustrating aspect during usage is an operational logic. We can press <kbd><kbd>fn</kbd> + <kbd>esc</kbd></kbd> to switch between F-Keys mode and Media Keys mode. In F-Keys mode, muting and decreasing the volume both require holding <kbd>fn</kbd>, but increasing the volume does not. The reason is that <kbd>Insert</kbd> doesn't belong to the F-Keys, this button is not controlled by F-Keys mode or Media Keys mode. This inconsistency in the operations of the three keys that control volume in F-Keys mode is, in my opinion, quite absurd! 😅
 - The mouse I'm currently using is the Logitech G304, which doesn't support the Bolt receiver. If I want to connect the keyboard via the Bolt receiver, I would need to have both the Bolt receiver and the G304 receiver plugged in, occupying two of my USB ports. Well, that doesn't seem to be a keyboard issue. I might consider switching to a mouse supporting Bluetooth or the Bolt receiver in the future.
 
-![I think the Insert key should be included in F-Keys mode!](/images/mx_keys_mini_volume.png)
+![I think the Insert key should be included in F-Keys mode!](images/mx-keys-mini-volume.png)
 
 I have used the Magic Keyboard before, and I find that the tactile feedback of the MX Keys Mini is better. Its rebound feels more agile. However, the MX Keys Mini is much heavier than the Magic Keyboard, making it less convenient to carry around. Both of them have its own strengths and weaknesses.
 

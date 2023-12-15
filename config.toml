@@ -1,4 +1,4 @@
-# baseURL = "https://blog.weiyi.dev"
+baseURL = "https://blog.weiyi.dev"
 title = "Magic Shop of Raspberry"
 
 theme = "fuji"
@@ -177,6 +177,6 @@ enableInlineShortcodes = true
 
 [imaging]
 resampleFilter = "box"
-quality = 75
+quality = 50
 anchor = "smart"
 bgColor = "#ffffff"
